@@ -2,6 +2,14 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.3.
 
+## Tutorial 
+
+Read tutorial [Lazy Loading in Angular 8](https://www.vjtechworld.com/2019/10/lazy-loading-in-angular-8.html) on [VJ Tech World](https://www.vjtechworld.com). 
+
+## Install Dependencies
+
+Run `npm install` to install all the dependencies ( from package.json )
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
